@@ -2,7 +2,7 @@
   "name": "sewing-machine",
   "version": "1.0.0",
   "description": "Vue JS client app with Nuxt back end",
-  "author": "Forgues, Brennan <brennan.forgues@tdsecurities.com>",
+  "author": "Forgues, Brennan",
   "private": true,
   "dependencies": {
     "jquery": "^3.2.1",
