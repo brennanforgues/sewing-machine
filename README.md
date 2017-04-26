@@ -1,7 +1,8 @@
 # sewing-machine 
 
 > Machine used to stitch fabric and other materials together with thread
-_courtesy:_ https://en.wikipedia.org/wiki/Sewing_machine
+
+_source:_ https://en.wikipedia.org/wiki/Sewing_machine
 
 ## Build Setup
 
