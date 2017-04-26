@@ -1,6 +1,7 @@
-# vue-app
+# sewing-machine 
 
-> first attempt at nuxt app
+> Machine used to stitch fabric and other materials together with thread
+_courtesy:_ https://en.wikipedia.org/wiki/Sewing_machine
 
 ## Build Setup
 
