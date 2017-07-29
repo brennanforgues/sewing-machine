@@ -4,7 +4,7 @@
 
 _source:_ https://en.wikipedia.org/wiki/Sewing_machine
 
-## Build Setup
+## Build setup
 
 ``` bash
 # install dependencies

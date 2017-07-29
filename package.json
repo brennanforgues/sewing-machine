@@ -7,7 +7,7 @@
   "dependencies": {
     "jquery": "^3.2.1",
     "jquery.scrollto": "^2.1.2",
-    "nuxt": "latest",
+    "nuxt": "^0.10.7",
     "tachyons": "^4.7.1"
   },
   "scripts": {
