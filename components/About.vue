@@ -1,12 +1,11 @@
 <template>
- 
-    <main class="w-100 cf helvetica dark-gray bg-white pa3 pa4-m pa5-l mw9 center">
+  <main class="w-100 cf helvetica dark-gray bg-white pa3 pa4-m pa5-l mw9 center">
     <div class="cf">
       <!--<div class="fl w-100 w-25-l pl3-l mb3 mb4-l">
-          <div class="cover pv5 pv6-m pv7-l" style="background:black url(http://mrmrs.github.io/photos/051.jpg) center;"> </div>
+        <div class="cover pv5 pv6-m pv7-l" style="background:black url(http://mrmrs.github.io/photos/051.jpg) center;"> </div>
       </div>-->
-      <div class="fl w-100 w-25-l pr3-l">
-        <p class="lh-copy measure f6 pt3 pt0-l mt0 mb3 mb4-l center">
+    <div class="fl w-100 w-25-l pr3-l">
+      <p class="lh-copy measure f6 pt3 pt0-l mt0 mb3 mb4-l center">
           <span class="fw6">For us Graphic Design is “organization of information.”</span> There are other
           types of graphic design more concerned with illustration or of a
           narrative nature.  Nothing could be more useful to reach our intention
@@ -53,17 +52,8 @@
         </div>
       </div>
     </div>
-    </main>
- 
+  </main>
 </template>
 
 <script>
-  import {mapState} from 'vuex'
-  export default {
-    computed: {
-      ...mapState({
-        siteSections: state => state.siteSections
-      })
-    }
-  }
 </script>

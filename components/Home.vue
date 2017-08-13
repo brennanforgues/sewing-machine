@@ -1,6 +1,5 @@
 <template>
-  
-    <main class="w-100 cf helvetica dark-gray bg-white pa3 pa4-m pa5-l mw9 center">
+  <main class="w-100 cf helvetica dark-gray bg-white pa3 pa4-m pa5-l mw9 center">
     <div class="fl w-50 pr2 pr3-l mb3 mb4-l">
       <div class="cover pv5 pv6-m pv7-l" style="background:black url(http://mrmrs.github.io/photos/v/022.jpg) center;"></div>
     </div>
@@ -26,8 +25,13 @@
         </p>
       </div>
     </div>
-</main>
-  
+  </main> 
 </template>
 <script>
 </script>
+
+<style>
+ a {
+    outline: 0;
+}
+</style>
