@@ -3,7 +3,7 @@
     <div id="nav-anchor"></div> <!--required for the 'navigation behaviour'-->
     <nav class="f6 fw6 ttu tracked">
       <span v-for="section in siteSections">
-        <a :href="'#'+section" class="link dim white dib mr3 linkStyle">
+        <a :href="'#'+section" class="link dim white dib mr3">
           <span>{{section}}</span>
         </a>
       </span>
@@ -40,5 +40,3 @@
   }
 
  <style>
- 
-
