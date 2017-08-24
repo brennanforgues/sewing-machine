@@ -3,7 +3,7 @@
     <div id="nav-anchor"></div> <!--required for the 'navigation behaviour'-->
     <nav class="f6 fw6 ttu tracked">
       <span v-for="section in siteSections">
-        <a :href="'#'+section" class="link dim white dib mr3">
+        <a :href="'#'+section" class="nav-link dim white dib mr3">
           <span>{{section}}</span>
         </a>
       </span>
@@ -21,3 +21,9 @@
     }
   }
 </script>
+
+<style>
+  .nav-link {
+    text-decoration: none;
+  }
+</style>
