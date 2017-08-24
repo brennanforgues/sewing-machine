@@ -3,7 +3,7 @@
     <div id="nav-anchor"></div> <!--required for the 'navigation behaviour'-->
     <nav class="f6 fw6 ttu tracked">
       <span v-for="section in siteSections">
-        <a :href="'#'+section" class="nav-link dim white dib mr3">
+        <a :href="'#'+section" class="nav-link dim white dib mr3 mobile-sm-spacing">
           <span>{{section}}</span>
         </a>
       </span>
@@ -26,4 +26,12 @@
   .nav-link {
     text-decoration: none;
   }
+
+  @media screen and (max-width: 500px) {
+    .mobile-sm-spacing {
+      margin-right: 0.5rem;
+    }
+  }
+
+
 </style>
