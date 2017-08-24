@@ -12,11 +12,7 @@ if (process.BROWSER_BUILD) {
     $(window).scroll(function () {
       const windowTop = $(window).scrollTop() + 12 // the "12" should equal the margin-top value for nav.stick
       const divTop = $('#nav-anchor').offset().top
-      if (windowTop > divTop) {
-        $('nav').addClass('stick')
-      } else {
-        $('nav').removeClass('stick')
-      }
+      windowTop > divTop ? $('nav').addClass('stick') : $('nav').removeClass('stick')
     })
     // target all a tags inside the nav, and apply scrollto.js to enable smooth scrolling
     $('nav a').click(function (evn) {
