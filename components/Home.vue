@@ -20,7 +20,7 @@
           <span class="db-ns f6 fw7 lh-solid mb3 mb0-m mb4-l">The Debut EP</span>
           <span class="fw9 f6 f1-l db lh-title mb3 mb4-l">By Kaitlyn Zarzour</span>
           <span class="db-l measure-wide"></span>
-          Listen to the debut EP by contemprary country artist Kaitlyn Zarzour from Toronto
+          Listen to the debut EP by contemprary country artist Kaitlyn Zarzour from Toronto, ON
         </p>
       </div>
       <div class="fl w-50 w-50-1 mt3 mb1 mb4-l">
