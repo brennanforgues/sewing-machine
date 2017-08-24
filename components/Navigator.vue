@@ -21,22 +21,3 @@
     }
   }
 </script>
-
-<style>
-  nav.stick {
-    position: fixed;
-    top: 0;
-    z-index: 10000;
-    margin-top:12px;
-  }
-
-  nav span a {
-    color:rgb(50,50,50);
-    font-weight:700;
-  }
-
-  a.nav-active {
-    color:#ccc;
-  }
-
- <style>

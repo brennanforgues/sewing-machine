@@ -46,8 +46,6 @@
     </div>
   </main>
 </template>
-<script>
-</script>
 
 <style>
 @media screen and (max-width: 500px) {
@@ -63,5 +61,4 @@
     top: 3rem;
   }
 }
-
 </style>
