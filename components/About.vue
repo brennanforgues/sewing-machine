@@ -4,34 +4,13 @@
       <div class="fl w-100 w-25-l pr3-l">
         <p class="lh-copy measure f6 pt3 pt0-l mt3 mb3 mb4-l center">
             <span class="fw6">All I ever wanted to do was sing.</span>
-            There are other
-            types of graphic design more concerned with illustration or of a
-            narrative nature.  Nothing could be more useful to reach our intention
-            than the Grid. The grid represents the basic structure of our graphic
-            design, it helps to organize the content, it provides consistency, it
-            gives an orderly look and it projects a level of intellectual elegance
-            that we like to express.  There are in nite kinds of grids, but just
-            one - the most appropriate - for any problem. Therefore, it becomes
-            important to know which kind of grid is the most appropriate. The basic
-            understanding is that the smaller the module of the grid the least
-            helpful it could be. We could say that an empty page is a page with an
-            in nitesimal small grid. Therefore, it is equivalent to not being
-            there. Conversely a page with a coarse grid is a very restricting grid
-            offering too few alternatives. The secret is to  nd the proper kind of
-            grid for the job at hand. Sometimes, in designing a grid we want to
-            have the outside margins small enough to provide a certain tension
-            between the edges of the page and the content. After that we divide the
-            page in a certain number of columns according to the content, three,
-            two, four,  ve, six, etc. Columns provide only one kind of consistency,
-            but we also need to have an horizontal frame of reference to assure
-            certain levels of continuity throughout the publication. Therefore, we
-            will divide the page from top to bottom in a certain number of Modules,
-            four, six, eight, or more, according to size and need. Once we have
-            structured the page, we will begin to structure the information and
-            place it in the grid in such a way that the clarity of the message will
-            be enhanced by the placement of the text on the grid. There are in nite
-            ways of doing this and that is why the grid is a useful tool, rather
-            than a constricting device.
+            Over the years the family learned that secret places are difficult to share with others. You can’t tell somebody the story by just giving them a map. You see, while Covenhoven is a real place, it’s also not. It’s more than that. It’s thousands of memories and entire childhoods, lives that have passed-on. And now, this place, this thing – because of the Grandson: it’s a symphony of sound. It’s an orchard of stories. And, it sounds like a good novel should read.
+            You can hear it in “A Love Sincere” when the strings kick up like autumn grass in that old aspen grove. This was something different than the Grandson had done before. Alone, he wrote, played and recorded the entire thing save for the stringy violin and cello, whose parts he wrote instead.
+            The Grandson is Joel Van Horne and this is his project.
+            For his siblings, parents and relatives, Covenhoven was always a place they drove four hours up to. But it was just as well a place that the Van Horne's could take back with them, when the summer was over as an emotional souvenir. It was a dreamy respite in the middle of a work day. A subalpine scent in the middle of a traffic jam. A memory of everything quiet and celebrated. And then, as years turned into decades and those logs settled down into their place in the earth of the Medicine Bows, Covenhoven grew into the central legend of their personal, familial history.
+            For Van Horne, a Colorado native, this storied plot of land was where the best of his childhood took place. And so it wasn’t such a surprise that, when the 33 year old was looking inside for a new project and a fresh lease on his musical life, he stumbled back upon the memory of that time. That place way out there had been something that he had wanted to write about. Up until this age, he just wasn’t ready.
+            The symphony hadn’t arrived. Not yet.
+            Van Horne grew-up on the west side of Denver, next to the hogbacks, beneath the sunsets. Every summer his family would go for a couple of glorious weeks, up to the Medicine Bows, up to Covenhoven. Dad played Dylan tunes on his old six-string. Others had their instruments. Music had been painted all over his family. Everybody had been infected. So it was no surprise when the Grandson, Joel, caught the bug. At eleven Van Horne had his first guitar. At fourteen, his first band. Before he could even drive, he was on the road.
           </p>
         </div>
         <div class="fl w-100 w-75-l pv0 mv0">
