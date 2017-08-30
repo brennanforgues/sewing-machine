@@ -9,7 +9,7 @@
     </div>
     <div class="fl w-25 w-25-l mobile-w-100 pr2 pr0-l pl3-l mb3 mb4-l">
         <div class="cover pv5 pv6-m pv7-l" style="background:black url(https://static.pexels.com/photos/185030/pexels-photo-185030.jpeg) center;"> </div>
-      </div>
+    </div>
     <div class="fl w-100 mobile-w-100 pl2 pl0-l pr2-m mb3 mb4-l">
       <div class="cover pv5 pv6-m pv7-l" style="background:black url(https://static1.squarespace.com/static/557903b5e4b0daf0f9cbfe1b/584e08b9d482e9382076d992/584e08e7d2b8572e194d1020/1481509122225/untitled-428+copy+3.jpg)"> </div>
     </div>

@@ -1,66 +1,17 @@
 <template>
-  <div>
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-    nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-    volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-    ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-    Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-    molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero
-    eros et accumsan et iusto odio dignissim qui blandit praesent luptatum
-    zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber
-    tempor cum soluta nobis eleifend option congue nihil imperdiet doming id
-    quod mazim placerat facer possim assum.
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-    nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-    volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-    ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-    Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-    molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero
-    eros et accumsan et iusto odio dignissim qui blandit praesent luptatum
-    zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber
-    tempor cum soluta nobis eleifend option congue nihil imperdiet doming id
-    quod mazim placerat facer possim assum.
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-    nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-    volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-    ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-    Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-    molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero
-    eros et accumsan et iusto odio dignissim qui blandit praesent luptatum
-    zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber
-    tempor cum soluta nobis eleifend option congue nihil imperdiet doming id
-    quod mazim placerat facer possim assum.
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-    nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-    volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-    ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-    Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-    molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero
-    eros et accumsan et iusto odio dignissim qui blandit praesent luptatum
-    zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber
-    tempor cum soluta nobis eleifend option congue nihil imperdiet doming id
-    quod mazim placerat facer possim assum.
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-    nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-    volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-    ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-    Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-    molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero
-    eros et accumsan et iusto odio dignissim qui blandit praesent luptatum
-    zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber
-    tempor cum soluta nobis eleifend option congue nihil imperdiet doming id
-    quod mazim placerat facer possim assum.
-
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-    nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-    volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-    ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-    Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-    molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero
-    eros et accumsan et iusto odio dignissim qui blandit praesent luptatum
-    zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber
-    tempor cum soluta nobis eleifend option congue nihil imperdiet doming id
-    quod mazim placerat facer possim assum.
-
-  </div>
+  <main class="w-100 cf helvetica dark-gray bg-white pa3 pa4-m pa5-l mw9 center">
+    <div class="fl w-50 pr2 pr3-l mb3 mb4-l">
+      <div class="cover pv5 pv6-m pv7-l" style="background:black url(http://s3.amazonaws.com/btoimage/prism-thumbnails/events/2017/02/01/e347e005-9b14-4d30-9d79-19ebe63b6f0a.jpg-resize-_opacity_100-frame_bg_color_FFF-gravity_center-q_70-preserve_ratio_true-w_2048_.jpg);"></div>
+    </div>
+    </div>
+    <div class="fl w-25 w-25-l mobile-w-50 pl2 pr2-m ph2-l mb3 mb4-l">
+      <div class="cover pv5 pv6-m pv7-l" style="background:black url(https://i.pinimg.com/564x/f5/00/e4/f500e4864165a1cb628a7ac24f2c210d.jpg) right;"> </div>
+    </div>
+    <div class="fl w-25 w-25-l mobile-w-100 pr2 pr0-l pl3-l mb3 mb4-l">
+        <div class="cover pv5 pv6-m pv7-l" style="background:black url(https://i1.wp.com/photogmusic.com/wp-content/uploads/2014/12/Fryqthegathering.jpg) center;"> </div>
+    </div>
+    <div class="fl w-100 mobile-w-100 pl2 pl0-l pr2-m mb3 mb4-l">
+      <div class="cover pv5 pv6-m pv7-l" style="background:black url(https://i1.wp.com/photogmusic.com/wp-content/uploads/2015/01/CatrionaSturton-AlbumRelease.jpg)"> </div>
+    </div>
+  </main>
 </template>
