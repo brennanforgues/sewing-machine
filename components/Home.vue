@@ -22,6 +22,12 @@
           <span class="db-l measure-wide"></span>
           Listen to the debut EP by contemprary country artist Kaitlyn Zarzour from Toronto, ON
         </p>
+        <div class="fl mt3 mb1 mb4-l mobile-no-margin">
+          <iframe src="https://open.spotify.com/embed?uri=spotify%3Aalbum%3A4Cjh0E2bPPlkeoqURANooa&theme=white"
+                  width="275" height="80"
+                  frameborder="0" allowtransparency="true">
+          </iframe>
+        </div>
       </div>
       <div class="fl w-50 w-50-1 mt3 mb1 mb4-l">
         <div class="cover pv5 pv6-m pv7-l" style="background:black url(http://is1.mzstatic.com/image/thumb/Music71/v4/10/7a/42/107a424a-23da-1cb6-be10-0cb319cd20ca/source/1200x630bb.jpg) center;"></div>
@@ -59,6 +65,10 @@
     }
     .mobile-photo-piano {
       top: 3rem;
+    }
+
+    .mobile-no-margin {
+      .margin: none;
     }
   }
 </style>
