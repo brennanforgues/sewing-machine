@@ -33,5 +33,21 @@
     }
   }
 
+  /* .stick {
+     position: fixed;
+     top: 0;
+     z-index: 10000;
+     margin-top:12px;
+   }
+ 
+   nav span a {
+     color:black;
+     font-weight:700;
+   }
+ 
+   .nav-active {
+     color: black;
+   } */
+
 
 </style>

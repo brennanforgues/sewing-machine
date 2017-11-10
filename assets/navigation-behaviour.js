@@ -20,7 +20,7 @@ if (process.BROWSER_BUILD) {
       $('html,body').scrollTo(this.hash, this.hash)
     })
     // handle the highlighting functionality
-    const aChildren = $('nav li').children() // find the a children of the list items
+    const aChildren = $('nav span').children() // find the a children of the list items
     const aArray = [] // create the empty aArray
     for (var i = 0; i < aChildren.length; i++) {
       const aChild = aChildren[i]
@@ -45,10 +45,10 @@ if (process.BROWSER_BUILD) {
       }
 
       if (windowPos + windowHeight === docHeight) {
-        if (!$('nav li:last-child a').hasClass('nav-active')) {
+        if (!$('nav span:last-child a').hasClass('nav-active')) {
           const navActiveCurrent = $('.nav-active').attr('href')
           $("a[href='" + navActiveCurrent + "']").removeClass('nav-active')
-          $('nav li:last-child a').addClass('nav-active')
+          $('nav span:last-child a').addClass('nav-active')
         }
       }
     })

@@ -56,9 +56,9 @@
 <style>
   @media screen and (max-width: 500px) {
     .mobile-w-100 {
-        width: 100%;
-        padding-right: 0rem;
-        padding-left: 0rem;
+      width: 100%;
+      padding-right: 0rem;
+      padding-left: 0rem;
     }
     .mobile-w-50 {
       width: 50%;
@@ -68,7 +68,7 @@
     }
 
     .mobile-no-margin {
-      .margin: none;
+      margin: none;
     }
   }
 </style>
