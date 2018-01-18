@@ -1,8 +1,7 @@
 # sewing-machine 
 
-> Machine used to stitch fabric and other materials together with thread
-
-_source:_ https://en.wikipedia.org/wiki/Sewing_machine
+> Source code for the promotional site built using VueJS (found here):
+https://sewing-machine-ddcdyvlzpm.now.sh/
 
 ## Build setup
 
