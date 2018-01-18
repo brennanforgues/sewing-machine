@@ -1,6 +1,6 @@
 # sewing-machine 
 
-> Source code for the promotional site built using VueJS (found here):
+> Source code for a promotional site built using VueJS (found here):
 https://sewing-machine-ddcdyvlzpm.now.sh/
 
 ## Build setup
