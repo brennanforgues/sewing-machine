@@ -1,7 +1,7 @@
 # sewing-machine 
 
 > Source code for a promotional site built using VueJS (found here):
-https://loving-edison-999780.netlify.com/
+http://www.kaitlynzarzour.com/
 
 ## Build setup
 
