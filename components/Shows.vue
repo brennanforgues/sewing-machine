@@ -1,17 +1,5 @@
 <template>
   <main class="w-100 cf helvetica dark-gray bg-white pa3 pa4-m pa5-l mw9 center">
-    <div class="fl w-50 pr2 pr3-l mb3 mb4-l">
-      <div class="cover pv5 pv6-m pv7-l" style="background:black url(http://s3.amazonaws.com/btoimage/prism-thumbnails/events/2017/02/01/e347e005-9b14-4d30-9d79-19ebe63b6f0a.jpg-resize-_opacity_100-frame_bg_color_FFF-gravity_center-q_70-preserve_ratio_true-w_2048_.jpg);"></div>
-    </div>
-    </div>
-    <div class="fl w-25 w-25-l mobile-w-50 pl2 pr2-m ph2-l mb3 mb4-l">
-      <div class="cover pv5 pv6-m pv7-l" style="background:black url(https://i.pinimg.com/564x/f5/00/e4/f500e4864165a1cb628a7ac24f2c210d.jpg) right;"> </div>
-    </div>
-    <div class="fl w-25 w-25-l mobile-w-100 pr2 pr0-l pl3-l mb3 mb4-l">
-        <div class="cover pv5 pv6-m pv7-l" style="background:black url(https://i1.wp.com/photogmusic.com/wp-content/uploads/2014/12/Fryqthegathering.jpg) center;"> </div>
-    </div>
-    <div class="fl w-100 mobile-w-100 pl2 pl0-l pr2-m mb3 mb4-l">
-      <div class="cover pv5 pv6-m pv7-l" style="background:black url(https://i1.wp.com/photogmusic.com/wp-content/uploads/2015/01/CatrionaSturton-AlbumRelease.jpg)"> </div>
-    </div>
+      <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BfZcL8NhqFg/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:28.10185185185185% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BfZcL8NhqFg/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">That&#39;s right, I&#39;m looking at you. I&#39;m so excited to be back at @relishtoronto on April 30th. It will be a great night so bring some friends and I will see you there 👋🏽 #LiveMusic #Toronto #NO1</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/katyzarzour/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Kaitlyn Zarzour</a> (@katyzarzour) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-02-19T23:56:46+00:00">Feb 19, 2018 at 3:56pm PST</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script> 
   </main>
 </template>

@@ -14,8 +14,8 @@
           </p>
         </div>
         <div class="fl w-100 w-75-l pv0 mv0">
-          <div class="fl w-100 mt3 mb2 mb4-l">
-            <div class="cover pv5 pv6-l" style="background:black url(https://static.pexels.com/photos/164828/pexels-photo-164828.jpeg) center;"> </div>
+          <div class="fl w-100 mb2 mb4-l">
+              <div class="cover pv5 pv6-ns" style="background:black url(https://i.ytimg.com/vi/lzFhDtPArVw/maxresdefault.jpg) top;"> </div>
           </div>
           <div class="fl w-25 mb2 mb4-l">
             <div class="cover pv5 pv6-m pv7-l" style="background:black url(https://static1.squarespace.com/static/557903b5e4b0daf0f9cbfe1b/584e08b9d482e9382076d992/584e08b9e4fcb51455a97566/1481509076899/untitled-279+copy+2.jpg) center;"> </div>
@@ -23,8 +23,9 @@
           <div class="fl w-75 pl2 pl4-l mb2 mb4-l">
             <div class="cover pv5 pv6-m pv7-l" style="background:black url(http://www.sasscanada.net/images/SASS_award_winners_He_Said_She_Said_June_17_2010_008.jpg) center;"> </div>
           </div>
-          <div class="fl w-100 mb2 mb4-l">
-              <div class="cover pv5 pv6-ns" style="background:black url(https://i.ytimg.com/vi/lzFhDtPArVw/maxresdefault.jpg) top;"> </div>
+        
+          <div class="fl w-100 mt3 mb2 mb4-l">
+            <div class="cover pv5 pv6-l" style="background:black url(https://static.pexels.com/photos/164828/pexels-photo-164828.jpeg) center;"> </div>
           </div>
         </div>
     </div>
