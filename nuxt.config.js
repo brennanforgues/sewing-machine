@@ -3,7 +3,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'sewing-machine',
+    title: 'Kaitlyn Zarzour Music',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -25,7 +25,7 @@ module.exports = {
   ** add jQuery to the vendor build so we can use it on the client
   */
   build: {
-    vendor: ['jquery','jquery.scrollto'],
+    vendor: ['jquery', 'jquery.scrollto'],
     /*
     ** Run ESLINT on save
     */
