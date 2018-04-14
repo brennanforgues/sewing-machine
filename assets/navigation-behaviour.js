@@ -2,7 +2,7 @@
  * Scrolling behaviour for the app's navigation. the href in the navigator component is mapped to the id
  * in the section component
  */
-if (process.BROWSER_BUILD) {
+if (process.browser) {
   // document/window are not defined on the server. we will run jQuery on the client
   const $ = require('jquery')
   require('jquery.scrollto') // jQuery plugin for smooth scrolling
