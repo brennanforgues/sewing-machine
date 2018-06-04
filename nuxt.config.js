@@ -25,7 +25,7 @@ module.exports = {
   ** add jQuery to the vendor build so we can use it on the client
   */
   build: {
-    vendor: ['jquery', 'jquery.scrollto'],
+    vendor: ['jquery', 'jquery.scrollto', 'lodash'],
     /*
     ** Run ESLINT on save
     */

@@ -20,11 +20,12 @@
 
 <script>
   require('assets/navigation-behaviour.js') // define how the app will respond to user actions
-  import Navigator from '~/components/Navigator.vue'
-  import Home from '~/components/Home.vue'
-  import About from '~/components/About.vue'
-  import Shows from '~/components/Shows.vue'
-  import Contact from '~/components/Contact.vue'
+  // require('~/components/Navigator/navigation.js')
+  import Navigator from '~/components/Navigator/Navigator.vue'
+  import Home from '~/components/Home/Home.vue'
+  import About from '~/components/About/About.vue'
+  import Shows from '~/components/Shows/Shows.vue'
+  import Contact from '~/components/Contact/Contact.vue'
 
   export default {
     components: {
