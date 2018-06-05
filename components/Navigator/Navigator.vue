@@ -1,9 +1,8 @@
 <template>
   <header class="bg-black-90 fixed w-100 ph3 pv3 pv4-ns ph4-m ph5-l">
-    <div id="nav-anchor"></div> <!--required for the 'navigation behaviour'-->
     <nav class="f6 fw6 ttu tracked">
       <span v-for="section in sections">
-        <a :href="'#'+section" class="nav-link dim white dib mr3 mobile-sm-spacing">
+        <a :href="'#'+section" @click.prevent="scrollToSection(section)" class="nav-link dim white dib mr3 mobile-sm-spacing">
           <span>{{section}}</span>
         </a>
       </span>
@@ -13,7 +12,13 @@
 
 <script>
   export default {
-    props: ['sections']
+    props: ['sections'],
+    methods: {
+      scrollToSection: function (section) {
+        const elementOffset = document.getElementById(section).offsetTop
+        window.scroll({top: elementOffset, behavior: 'smooth'})
+      }
+    }
   }
 </script>
 
