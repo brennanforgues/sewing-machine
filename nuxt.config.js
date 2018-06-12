@@ -25,7 +25,7 @@ module.exports = {
   ** add jQuery to the vendor build so we can use it on the client
   */
   build: {
-    vendor: ['jquery', 'jquery.scrollto', 'lodash'],
+    vendor: ['vue-scrollactive'],
     /*
     ** Run ESLINT on save
     */
@@ -39,5 +39,6 @@ module.exports = {
         })
       }
     }
-  }
+  },
+  plugins: ['~/plugins/vue-scrollactive']
 }

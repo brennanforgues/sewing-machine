@@ -5,12 +5,9 @@
   "author": "Forgues, Brennan",
   "private": true,
   "dependencies": {
-    "jquery": "^3.2.1",
-    "jquery.scrollto": "^2.1.2",
-    "lodash": "^4.17.10",
-    "materialize-css": "^0.100.1",
     "nuxt": "^1.0.0",
-    "tachyons": "^4.7.1"
+    "tachyons": "^4.7.1",
+    "vue-scrollactive": "^0.6.1"
   },
   "scripts": {
     "dev": "nuxt",
